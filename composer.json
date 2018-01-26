@@ -1,12 +1,19 @@
 {
     "name": "bantenprov/dashboard-tanara-statistic",
-    "description": "Indikator Kemiskinan Provinsi di wilayah Banten dan Negara Indonesia",
-    "authors": [
-        {
-            "name": "bantenprov",
-            "email": "developer.bantenprov@gmail.com"
-        }
-    ],
+    "description": "Tanara dashboard for statistic application",
+    "type": "library",
+    "homepage": "https://github.com/bantenprov/dashboard-tanara-statistic",
+    "authors": [{
+        "name": "bantenprov",
+        "email": "developer.bantenprov@gmail.com",
+        "role": "developer"
+    }],
+    "license": "MIT",
+    "support": {
+      "source": "https://github.com/bantenprov/dashboard-tanara-statistic,",
+      "issues": "https://github.com/bantenprov/dashboard-tanara-statistic/issues",
+      "wiki": "https://github.com/bantenprov/dashboard-tanara-statistic/wiki"
+    },
     "require": {
         "php": ">=5.6.4",
         "illuminate/support": "5.4.*"
