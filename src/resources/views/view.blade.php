@@ -1,0 +1,1 @@
+This is demo view file for Bantenprov\DashboardTanaraStatistic package using blade template
