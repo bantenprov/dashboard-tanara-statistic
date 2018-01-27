@@ -135,7 +135,7 @@ class DashboardTanaraStatisticServiceProvider extends ServiceProvider
         $packageAssetsPath = __DIR__.'/resources/assets';
 
         $this->publishes([
-            $packageAssetsPath => resource_path('/'),
+            $packageAssetsPath => resource_path('/assets'),
         ], 'dtstatistik-assets');
     }
 

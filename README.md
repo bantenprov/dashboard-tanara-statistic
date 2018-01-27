@@ -35,5 +35,5 @@ $ composer require bantenprov/dashboard-tanara-statistic:dev-master
 ## Publish vendor command :
 
 ```bash
-$ php artisan vendor:publish --tag=dtstatistik-assets
+$ php artisan vendor:publish --tag=dtstatistik-assets --force
 ```
