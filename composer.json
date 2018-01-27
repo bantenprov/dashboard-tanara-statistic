@@ -23,7 +23,7 @@
             "src/helpers/helpers.php"
         ],
         "psr-4": {
-            "Bantenprov\\DTStatistic\\": "src"
+            "Bantenprov\\DashboardTanaraStatistic\\": "src"
         }
     },
     "minimum-stability": "dev"
