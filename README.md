@@ -3,6 +3,13 @@ Tanara's dashboard for statistic application
 
 ## Install :
 
+First, Install tanara
+
+```bash
+$ composer create-project bantenprov/tanara:dev-master
+```
+then install this packages
+
 ```bash
 $ composer require bantenprov/dashboard-tanara-statistic:dev-master
 ```
