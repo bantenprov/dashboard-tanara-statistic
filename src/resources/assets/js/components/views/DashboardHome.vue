@@ -8,7 +8,7 @@
             <div class="media">
               <i class="fa fa-user fa-card-media-avatar mr-3" aria-hidden="true"></i>
               <div class="media-body text-truncate">
-                <h5 class="mt-0">Dasboard Statistik Users</h5>
+                <h5 class="mt-0">Users</h5>
                 <span><i class="fa fa-dot-circle-o" aria-hidden="true"></i> 1500</span>
               </div>
             </div>
@@ -21,7 +21,7 @@
             <div class="media">
               <i class="fa fa-comments fa-card-media-avatar mr-3" aria-hidden="true"></i>
               <div class="media-body text-truncate">
-                <h5 class="mt-0">Dasboard Statistik Comments</h5>
+                <h5 class="mt-0">Comments</h5>
                 <span><i class="fa fa-dot-circle-o" aria-hidden="true"></i> 500</span>
               </div>
             </div>
@@ -34,7 +34,7 @@
             <div class="media">
               <i class="fa fa-calendar fa-card-media-avatar mr-3" aria-hidden="true"></i>
               <div class="media-body text-truncate">
-                <h5 class="mt-0">Dasboard Statistik Agenda</h5>
+                <h5 class="mt-0">Agenda</h5>
                 <span><i class="fa fa-dot-circle-o" aria-hidden="true"></i> 30</span>
               </div>
             </div>

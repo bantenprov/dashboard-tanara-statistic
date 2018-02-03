@@ -5,7 +5,7 @@
   	    <nav class="home-header-navbar navbar navbar-expand-lg navbar-dark bg-transparent">
           <router-link class="navbar-brand d-flex flex-row align-items-center text-uppercase" to="/" exact>
             <img class="mr-2" src="/images/logo.png" width="36" height="36">
-            <span>Dashboard Statistik</span>
+            <span>Dashboard Statistic</span>
           </router-link>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -20,8 +20,8 @@
   	    </nav><!-- /.navbar -->
 
         <div class="home-header-content">
-          <h1 class="home-header-title">Dashboard Statistik</h1>
-          <p class="home-header-description mb-5">Dashboard Statistik adalah sebuah kecamatan di Kabupaten Serang, Provinsi Banten, Indonesia. Daerah ini sangat terkenal karena ulama besar, <strong>Syaikh Nawawi al-Bantani</strong>, guru bagi para ulama Indonesia dan guru besar di Mekkah, lahir di sini.</p>
+          <h1 class="home-header-title">Dashboard Statistic</h1>
+          <p class="home-header-description mb-5">Dashboard Statistic paket yang digunakan untuk membuat halaman depan dan dashboard, <strong>menggunakan Tanara sebagai base template</strong>, guru bagi para ulama Indonesia dan guru besar di Mekkah, lahir di sini.</p>
           <p class="mb-0">
             <router-link class="btn btn-lg btn-light d-block d-sm-inline-block rounded-0 px-5 mx-2 mb-3 mb-sm-0" to="/dashboard"><i class="fa fa-th-large" aria-hidden="true"></i> Dashboard</router-link>
             <router-link class="btn btn-lg btn-outline-light d-block d-sm-inline-block rounded-0 px-5 mx-2 mb-3 mb-sm-0" to="/sign-in"><i class="fa fa-sign-in" aria-hidden="true"></i> Sign in</router-link>
@@ -34,28 +34,29 @@
       </svg>
 	  </div><!-- /.banner -->
 
-		<section class="home-section-1">
+		<section class="home-section home-section-1">
 	    <div class="container">
         <h2>Wilayah</h2>
         <p class="lead">Terletak disekitar Sungai Cidurian yang bermuara ke Laut Jawa. Pada tahun 2010 wilayah ini terbagi menjadi beberapa desa.</p>
+        <img class="home-section-img" src="https://placehold.it/1200x630/777/eee/?text=IMAGE" alt="Image">
 	    </div>
       <svg viewBox="0 0 1280 70" preserveAspectRatio="none" id="homeSection1Curve" role="presentation" aria-hidden="true">
         <polygon points="1280 0 1280 70 0 70"></polygon>
       </svg>
 		</section>
 
-		<section class="home-section-2">
+		<section class="home-section home-section-2">
 	    <div class="container">
         <h2>Ulama</h2>
         <p class="lead">Karena kemasyhurannya, <strong>Syekh Nawawi al-Bantani</strong> kemudian dijuluki Sayyid Ulama al-Hijaz (Pemimpin Ulama Hijaz), al-Imam al-Muhaqqiq wa al-Fahhamah al-Mudaqqiq (Imam yang Mumpuni ilmunya), A'yan Ulama al-Qarn al-Ram Asyar li al-Hijrah (Tokoh Ulama Abad 14 Hijriyah), hingga Imam Ulama al-Haramain, (Imam 'Ulama Dua Kota Suci).</p>
-	      <img class="img-fluid" src="/images/lukisan-syekh-nawawi-al-bantani-oleh-kang-alam.jpg" alt="Syekh Nawawi al-Bantani">
+	      <img class="home-section-img" src="https://placehold.it/1200x630/eee/777/?text=IMAGE" alt="Image">
       </div>
       <svg viewBox="0 0 1280 70" preserveAspectRatio="none" id="homeSection2Curve" role="presentation" aria-hidden="true">
         <polygon points="1280 0 1280 70 0 70"></polygon>
       </svg>
 		</section>
 
-		<section class="home-section-3">
+		<section class="home-section home-section-3">
 	    <div class="container">
         <h2>Talk Less Do More</h2>
         <div class="row">

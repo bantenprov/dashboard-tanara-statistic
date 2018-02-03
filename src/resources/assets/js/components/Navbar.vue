@@ -1,8 +1,8 @@
 <template>
-  <nav class="navbar navbar-expand-md navbar-dark bg-dark py-3">
+  <nav class="site-navbar navbar navbar-expand-md navbar-dark bg-dark py-3">
     <router-link class="navbar-brand d-flex flex-row align-items-center text-uppercase" to="/" exact>
       <img class="mr-2" src="/images/logo.png" width="36" height="36">
-      <span>Dashboard Statistik</span>
+      <span>Dashboard Statistic</span>
     </router-link>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -10,16 +10,10 @@
     <div class="collapse navbar-collapse" id="navbar">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
+          <router-link class="nav-link" to="/dashboard" exact>Dashboard</router-link>
         </li>
       </ul>
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            Dropdown
